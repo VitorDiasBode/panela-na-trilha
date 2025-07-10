@@ -108,14 +108,6 @@ Todos os ingredientes de todos os pratos planejados para o período serão multi
   
 - **Como criador do acampamento**, quero poder editar ou excluir o acampamento que criei.
 
-
-### 🏕️ PROPRIEDADE DE ACAMPAMENTOS
-
-- **Como usuário autenticado**, quero criar um novo acampamento e ser automaticamente o chefe responsável.
-  
-- **Como usuário autenticado**, quero ver a lista de acampamentos dos quais participo.
-  
-- **Como criador do acampamento**, quero poder editar ou excluir o acampamento que criei.
 ---
 
 ### 🔐 AUTENTICAÇÃO E PERFIL
